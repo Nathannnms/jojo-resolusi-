@@ -3,6 +3,7 @@ RENCANA JOBS
 - Web Development
 Gaji 2 digit
 - Web designer
+Membuat Web Toko Online Futuristik berbasis crypto
 - Data Analyst
 - Boss Muda
 - Pemngusaha Sukses
